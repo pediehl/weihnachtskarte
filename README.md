@@ -29,7 +29,7 @@ Für deinen Raspberry Pi musst du keine Veränderungen vornehmen. Das Kabel für
 ![](images/weihnachtskarte_Steckplatine.png)
 
 ## Beispiele starten
-Auf deinem Raspberry solltest du jetzt unter **Documents** einen weiteren Ordner **weihnachtskarte** haben. Öfnne den Ordner **weihnachtskarte** und gehe auf **code**. Hier gibt es zwei Python-Skripte. die nun starten kannst.
+Auf deinem Raspberry solltest du jetzt unter **Documents** einen weiteren Ordner **weihnachtskarte** haben. Öfnne den Ordner **weihnachtskarte** und gehe auf **code**. Hier gibt es zwei Python-Skripte die nun starten kannst.
 
 * kerzen_an.py
 * kerzen_flackern.py
