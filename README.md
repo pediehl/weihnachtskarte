@@ -25,7 +25,7 @@ git clone https://github.com/pediehl/weihnachtskarte.git
 ## Aufbau
 
 Die passenden Widerstände sind innerhalb der Karte enthalten.
-Für deinen Raspberry Pi musst du keine Veränderungen vornehmen. Das Kabel für den Stern (gelb markiert) kommt auf Pin 15 und die gemeinsame Masse (hier schwarz markiert, kann aber auch ein braunes Kabel sein) auf GND (die beiden Kabel habe ich beschriftet, bitte beachten!). Die Kerzen werden auf die Pins 18, 23, 24, 25 und 8 aufgesteckt (die Kabel für die Kerzen sind in der Zeichnung orange dargestellt) .
+Für deinen Raspberry Pi musst du keine Veränderungen vornehmen. Das Kabel für den Stern (gelb markiert) kommt auf Pin 15 und die gemeinsame Masse (hier schwarz markiert, kann aber auch ein braunes Kabel sein) auf GND (die beiden Kabel habe ich beschriftet, bitte beachten!). Die Kerzen werden auf die Pins 18, 23, 24, 25 und 8 aufgesteckt (die Kabel für die Kerzen sind in der Zeichnung orange dargestellt). Wenn du die Kabel direkt auf die GPIO-Pins stecken möchtest, dann entferne einfach die Adapter-Pins. 
 
 ![](images/weihnachtskarte_Steckplatine.png)
 
