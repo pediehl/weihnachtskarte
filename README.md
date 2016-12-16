@@ -36,7 +36,7 @@ Auf deinem Raspberry solltest du jetzt unter **Documents** einen weiteren Ordner
 * kerzen_flackern.py
 
 ## Wie starte ich das Python-Skript auf meinem Raspbery Pi?
-1. Wechsel in den Ordner **Documents/weihnachtskarte/**
+1. Wechsel in den Ordner **Documents/weihnachtskarte/code/**
 2. Wähle eine Datei und starte die Datei mit einem Doppel-Klick.
 3. Starte das Programm mit F5.
 
