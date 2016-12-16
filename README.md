@@ -40,7 +40,7 @@ Auf deinem Raspberry solltest du jetzt unter **Documents** einen weiteren Ordner
 2. Wähle eine Datei und starte die Datei mit einem Doppel-Klick.
 3. Starte das Programm mit F5.
 
-Schritt 1: Wechsel in den Ordner **Documents/weihnachtskarte/**
+Schritt 1: Wechsel in den Ordner **Documents/weihnachtskarte/code/**
 ![Schritt 1](images/file_ordner_documents_weihnachtskarte_code.png)
 
 Schritt2: Wähle eine Datei und starte die Datei mit einem Doppel-Klick.
