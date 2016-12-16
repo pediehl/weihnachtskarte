@@ -11,6 +11,7 @@ Zu nächst ein paar notwendige Updates, damit die weiteren Schritte auch funktio
 
 ```
 sudo apt-get update
+sudo apt-get upgrade
 sudo apt-get install git
 ```
 
